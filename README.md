@@ -1,1 +1,4 @@
-# dip-2020-2-tarea-5-ronaldcaravaca-carlosbrenes
+# Tarea 5 - Rastreo de Objectos.
+## Segundo Cuatrimestre del 2020.
+## Ronald Caravaca / Carlos Brenes.
+
